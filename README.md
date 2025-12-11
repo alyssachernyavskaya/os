@@ -31,4 +31,4 @@ gcc program1.c cos1.c sort1.c -o program1.exe -lm -luser32
 gcc program1.c cos2.c sort2.c -o program1_v2.exe
 gcc program2.c -o program2.exe -luser32
 program1.exe
-program2.exe
+program2.exe 
